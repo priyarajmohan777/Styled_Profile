@@ -1,0 +1,52 @@
+body
+{
+    max-width: 1000px;     
+    margin: auto;       
+    text-align: center; 
+    background-color: #F0F4EF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: fill;
+    margin: auto;
+}
+
+article
+{
+    border: 3px solid #9DC08B;
+    border-radius: 20px;
+    background-color: #F6FFED;
+    align-content: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.prof-card
+{
+    background-color: #9DC08B;
+    padding: 20px;
+    margin: 0px 10px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #52734D;
+    margin: 20px auto;
+}
+
+section
+{
+    background-color: #DDEAC1;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-top: 20px;
+}
